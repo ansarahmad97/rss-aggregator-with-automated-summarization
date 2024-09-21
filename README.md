@@ -1,4 +1,3 @@
-**Contributors:** ansarahmad97
 **Tags:** RSS, news aggregator, content summary, WordPress tagline  
 **Requires at least:** 5.0  
 **Tested up to:** 6.x  
